@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Peralatan Para Gamers</string>
+    
+    <string-array name="Alat_Gamers">
+        <item>PC Gaming</item>
+        <item>Mouse</item>
+        <item>Headset</item>
+        <item>Headset Stand</item>
+        <item>Keyboard Mechanical</item>
+        <item>Microphone Gaming</item>
+        <item>Monitor</item>
+        <item>Mousepad</item>
+        <item>RAM RGB</item>
+        <item>Grapic card</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>
+            PC yang di idam-idamkan oleh Gamers
+        </item>
+        <item>
+            Sebuah alat yang digunakan untuk menggerakkan cursor
+        </item>
+        <item>
+            Sebuah alat yang digunakan untuk mendengarkan suara secara personal
+        </item>
+        <item>
+            benda yang digunakan untuk meletakan headset
+        </item>
+        <item>
+            sebuah alat yang memiliki banyak tombol yang bisa di pencet-pencet
+        </item>
+        <item>
+            sebuah alat yang bisa digunakan untuk merekam suara
+        </item>
+        <item>
+            sebuah alat yang digunakan untuk melihat display dari PC
+        </item>
+        <item>
+            sebuah benda lentur yang menjadi alas dari mouse
+        </item>
+        <item>
+            hardware yang mengolah aplikasi atau game saat dijalankan
+        </item>
+        <item>
+            alat yang mengolah grapis pada PC
+        </item>
+    </string-array>
+</resources>
